@@ -1,3 +1,10 @@
+NOTE from SP3SWJ
+
+This code solve problem reverse LCD
+https://github.com/sp3swj/ATU-100-EXT-YAF/blob/main/dist/ATU100_new_LCD_SWJ.hex
+// end NOTE
+
+
 # Antenna tuner - ATU-100 EXT - Yet Another Firmware
 ![ATU-100_EXT_YAF](images/ATU-100_EXT_YAF.jpg)
 
